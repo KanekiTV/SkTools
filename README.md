@@ -6,6 +6,7 @@
 - [x] 4. **SnusBaseAPI**
 - [x] 5. **Fivem Scrapper**
 - [x] 6. **Fivem Lookup (place your database on Input/db)**
+- [x] 7. **Discord AntiLink Bypasser**
 
 ## **👀 Soon**
 
